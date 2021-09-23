@@ -6,7 +6,7 @@
 | Jon Clindaniel               | Jinfei Zhu              | MengChen Chung             | Location: 1155 E. 60th Street, Rm. 140C   |
 | 1155 E. 60th Street, Rm. 215 |                         |                        | Monday/Wednesday       |
 | jclindaniel@uchicago.edu     | jinfei@uchicago.edu | mengchenc@uchicago.edu | 9:30-11:20 AM (CDT) |
-| **Office Hours:** [Schedule](https://appoint.ly/s/jclindaniel/office-hours)\* | **Office Hours:** [Schedule TBD]()\* | **Office Hours:** [Schedule](https://appoint.ly/s/mengchenc/LSC)\*\*\*| [Canvas Course Site](https://canvas.uchicago.edu/courses/37456) |
+| **Office Hours:** [Schedule](https://appoint.ly/s/jclindaniel/office-hours)\* | **Office Hours:** [Schedule](https://appoint.ly/s/jinfei/office-hours)\* | **Office Hours:** [Schedule](https://appoint.ly/s/mengchenc/LSC)\*\*\*| [Canvas Course Site](https://canvas.uchicago.edu/courses/37456) |
 
 \* Office Hours may be held via Zoom or in person if you prefer (just let us know which option you choose when you schedule your appointment via the Appoint.ly links above).
 
