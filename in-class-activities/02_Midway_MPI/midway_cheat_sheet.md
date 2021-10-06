@@ -92,5 +92,5 @@ cat gpu.out
 You should not perform intensive computational tasks on the login nodes. Use the `sinteractive` command to set up an interactive session on other Midway nodes if you want to have an interactive command line experience (you can specify exactly which nodes you would like to access; see the documentation for syntax). Here we request 4 cores for 15 minutes. Additionally, you can use the interactive mode to run Jupyter notebooks, which you can view in your browser (see documentation for more details).
 
 ```
-sinteractive --time=00:15:00 --ntasks=4
+sinteractive --time=00:15:00 --ntasks=4 --account=macs30123
 ```

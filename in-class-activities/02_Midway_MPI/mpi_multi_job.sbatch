@@ -4,6 +4,7 @@
 #SBATCH --ntasks=11
 #SBATCH --partition=broadwl
 #SBATCH --constraint=fdr
+#SBATCH --account=macs30123
 
 # Load Python and MPI modules
 module load python/anaconda-2019.03
