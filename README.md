@@ -3,14 +3,12 @@
 
 | Instructor Information       | **TA Information**      | **TA Information**     | Course Information     |
 | :-------------               | :-------------          | :-------------         | :------------          |
-| Jon Clindaniel               | Jinfei Zhu              | MengChen Chung             | Location: 1155 E. 60th Street, Rm. 140C   |
-| 1155 E. 60th Street, Rm. 215 | In-person OH: 1155 E. 60th St., Rm 224|                        | Monday/Wednesday       |
+| Jon Clindaniel               | Jinfei Zhu              | MengChen Chung         | Location: 1155 E. 60th Street, Rm. 140C   |
+| 1155 E. 60th Street, Rm. 215 | In-person OH: 1155 E. 60th St., Rm 224 | In-person OH: 1155 E. 60th St., Rm 224 | Monday/Wednesday       |
 | jclindaniel@uchicago.edu     | jinfei@uchicago.edu | mengchenc@uchicago.edu | 9:30-11:20 AM (CDT) |
-| **Office Hours:** [Schedule](https://appoint.ly/s/jclindaniel/office-hours)\* | **Office Hours:** [Schedule](https://appoint.ly/s/jinfei/office-hours)\* | **Office Hours:** [Schedule](https://appoint.ly/s/mengchenc/LSC)\*\*\*| [Canvas Course Site](https://canvas.uchicago.edu/courses/37456) |
+| **Office Hours:** [Schedule](https://appoint.ly/s/jclindaniel/office-hours)\* | **Office Hours:** [Schedule](https://appoint.ly/s/jinfei/office-hours)\* | **Office Hours:** [Schedule](https://appoint.ly/s/mengchenc/LSC)\*| [Canvas Course Site](https://canvas.uchicago.edu/courses/37456) |
 
 \* Office Hours may be held via Zoom or in person if you prefer (just let us know which option you choose when you schedule your appointment via the Appoint.ly links above).
-
-\*\*\* Please mind the time difference if you are not in Chicago. I will prioritize a Zoom meeting format, but if you need to meet in person, please specify in the appointment and we can talk about the location.
 
 ## Course Description
 Computational social scientists increasingly need to grapple with data that is either too big for a local machine and/or code that is too resource intensive to process on a local machine. In this course, students will learn how to effectively scale their computational methods beyond their local machines. The focus of the course will be social scientific applications, ranging from training machine learning models on large economic time series to processing and analyzing social media data in real-time. Students will be introduced to several large-scale computing frameworks such as MPI, MapReduce, Spark, Dask, and OpenCL, with a special emphasis on employing these frameworks using cloud resources and the Python programming language.
