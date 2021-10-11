@@ -49,7 +49,7 @@ To install packages that are not already included in a module (such as installin
 
 ```
 pip install --user mpi4py
-pip install --user pyopencl
+pip install --user pyopencl==2020.2.2
 pip install --user mako
 ```
 
