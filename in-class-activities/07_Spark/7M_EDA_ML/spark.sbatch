@@ -5,6 +5,7 @@
 #SBATCH --output=spark.out
 #SBATCH --error=spark.err
 #SBATCH --ntasks=10
+#SBATCH --account=macs30123
 
 module load python/anaconda-2019.03
 module load spark/2.4.3
